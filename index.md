@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to the official shrekism website. Here you will find everything you need to know.
 
-You can use the [editor on GitHub](https://github.com/DsSoft-Byte/Shrek/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Some people refuse to belive in God, so some people believed into the only wotrhy Lord, Shrek, The green ogre.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website has it all linked, and argueably the best on-site experience, from all of these websites. Read along for the Bible of Shrek (Shrible)
 
-### Markdown
+### How Shrekism has began
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A group of anonymous people on the 4chan forums strated the trend of shrek becoming an celebrity, and some suggested this, Shrekism.
 
-```markdown
-Syntax highlighted code block
+### This website is not finished yet, but it will be in the coming weeks. to contribute contact me via e-mail.
+[Image](shrek.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Rules to become a part of this Religion:
 
-- Bulleted
-- List
+You need to have a picture of Shrek proudly hanging on your wall, or beside you.
+You need to pray to Shrek at least one time monthly.
+You need to watch all of the Shrek movies once in your lifetime.
+You need to take a bite of an onion every half year.
+You need to have at least skimmed the Shrible once.
+You need to be proud of your Religion, and prove it the best
 
-1. Numbered
-2. List
+### Shrible Google Drive link
 
-**Bold** and _Italic_ and `Code` text
+To be added, google shrek religion reddit and use the link provided in the thred there.
 
-[Link](url) and ![Image](src)
-```
+### The End?
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DsSoft-Byte/Shrek/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Yeah, sadly. Please consider joining us in the mission of making shrekism gloablly recogniseable.
+The only official Shrekism website is : shrekism.uk.to
